@@ -41,6 +41,10 @@ The development process involves:
 
 The initial focus is on dataset processing, model development, and performance evaluation. ESP32 deployment and integration with live sensor data are part of the development goals.
 
+
+## Kaggle Notebook
+https://www.kaggle.com/code/kanekiku/final
+
 ## Future Work
 
 - Deploy the trained model on the ESP32.
